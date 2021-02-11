@@ -1,0 +1,44 @@
+{
+    "users": {
+        "g9N1730uDvXTcqgoWVIJ5QJ9YFl2": {
+            "name": "Test User",
+            "email": "testuser@gmail.com",
+            "balance": 10000,
+            "account": "043827294911"
+        }
+    },
+    "transactions": {
+        "1": {
+            "userId": "g9N1730uDvXTcqgoWVIJ5QJ9YFl2",
+            "referenceNumber": "123455",
+            "transactionType": "Payment",
+            "description": "Payment for something",
+            "createdAt": 1555016400000,
+            "amount": 25000
+        },
+        "2": {
+            "userId": "g9N1730uDvXTcqgoWVIJ5QJ9YFl2",
+            "referenceNumber": "123456",
+            "transactionType": "Cash In",
+            "description": "Payment for something",
+            "createdAt": 1555016400000,
+            "amount": 1000
+        },
+        "3": {
+            "userId": "g9N1730uDvXTcqgoWVIJ5QJ9YFl2",
+            "referenceNumber": "123457",
+            "transactionType": "Payment",
+            "description": "Payment for something",
+            "createdAt": 1555016400000,
+            "amount": 5000
+        },
+        "4": {
+            "userId": "g9N1730uDvXTcqgoWVIJ5QJ9YFl2",
+            "referenceNumber": "123458",
+            "transactionType": "Payment",
+            "description": "Payment for something",
+            "createdAt": 1555016400000,
+            "amount": 1000
+        }
+    }
+}
